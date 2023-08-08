@@ -1,0 +1,1 @@
+Estou treinando c++, e para melhorar eu decidi fazer um codigo que calcule a média de 4 notas.
